@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning: Web Developing...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: vtr.2@icloud.com
--   MY SKILLS: HTML, CSS , JS , VUE.JS , BOOTSTRAP , NODE.JS , PHP , MYSQL , LARAVEL , NPM , COMPOSER , PHPMYADMIN
+-   MY SKILLS: HTML, CSS , SASS, JS , VUE.JS , BOOTSTRAP , NODE.JS , PHP , MYSQL , LARAVEL , NPM , COMPOSER , PHPMYADMIN
 
 <!---
 Vitto2623/Vitto2623 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
